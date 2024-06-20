@@ -1,10 +1,10 @@
-/* Tokenization of Real-world Assets
+Tokenization of Real-world Assets
     Asset: Pre-paid Mobile Data
     Tokenization Type: Directly backed with off-chain collateral
     Author: realTCio
-*/
 
-/*  Problem:  
+
+    Problem:  
         All too often, Pre-paid Mobile Data users do not get to enjoy the full value of their Pre-paid Mobile Data 
         purchases. This happens when the user is unable to use all the data purchased before expiry, probably because they have 
         purchased too much,or because they have spent most of their time in Wi-Fi coverage areas, thus not using their Pre-paid Mobile 
@@ -28,4 +28,3 @@
         4. One day before expiry of Pre-paid Mobile Data, if there is a Mobile Data positive balance, Chainlink Functions initiate 
             the sale of remaining Pre-paid Mobile Data for corresponding USDC and stores the USDC in the smart contract for the user 
             to withdraw.
-*/
